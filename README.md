@@ -24,12 +24,13 @@
 
 - Formação em andamento:
 
-[<img src="[https://hermes.dio.me/tracks/aa71615b-e701-4cec-bb64-71ba6974c5fe.png](https://www.cursoemvideo.com/curso/mysql/)" width="70">]
+- Universidade do Estado de Minas Gerais
+- Curso em Video (MySql[40 Horas])
 
 Bootcamps Concluidos:
 
-[<img src="[https://hermes.dio.me/tracks/608ecefd-1d10-42ea-9f58-3e7a4548ab3e.png](http://robotica.cpscetec.com.br/index.php)" width="70">]
+- 2 Hackaduino Centro Paula Souza
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi-vizicato-julano3&show_icons=true&theme=dark)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVizicatoJuliano3&show_icons=true&theme=dark)
 
 ⭐ Obrigado por visitar meu perfil!
