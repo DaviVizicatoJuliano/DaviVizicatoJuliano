@@ -1,3 +1,6 @@
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVizicatoJuliano&layout=compact&langs_count=10&theme=dark)
+
+
 # 👋 Olá! Eu sou o Davi Vizicato Juliano
 
 🎓 Estudante de Sistemas de Informação na UEMG - Frutal
