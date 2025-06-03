@@ -36,6 +36,6 @@ Bootcamps Concluidos:
 
 - 2 Hackaduino Centro Paula Souza
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVizicatoJuliano3&show_icons=true&theme=dark)
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVizicatoJuliano&show_icons=true&theme=dark)
 
 ⭐ Obrigado por visitar meu perfil!
