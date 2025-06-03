@@ -27,7 +27,7 @@
 - Email: davi1234.juliano@gmail.com
 - LinkedIn: [Davi Vizicato Juliano](https://www.linkedin.com/in/davi-vizicato-juliano-37303225b/))
 
- ##📈 Formação em andamento:
+##📈 Formação em andamento:
 
 - Universidade do Estado de Minas Gerais
 - Curso em Video (MySql[40 Horas])
