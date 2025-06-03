@@ -16,7 +16,7 @@
 - HTML
 - CSS
 - PHP
-- 
+
 
 ## 📚 Projetos e Pesquisas
 - Sistema de Gerenciamento de Solicitações UEMG
