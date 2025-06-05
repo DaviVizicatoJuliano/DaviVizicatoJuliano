@@ -1,15 +1,14 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVizicatoJuliano&langs_count=10&theme=dark)
 
-## 👋 Hello! I’m Davi Vizicato Juliano
+## 👋 Olá! Eu sou o Davi Vizicato Juliano
 
 🎓 Information Systems Student at UEMG - Frutal  
 🔬 Researcher in Artificial Intelligence applied to Sugarcane Harvesting and Transportation  
 💻 Beginner programmer in C#.
 
-## 🚀 Technologies I'm Learning
+## 🚀 Technologies I'm learning
 
-### Languages
-
+### Languages  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -22,37 +21,31 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Databases
-
+### Databases  
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### Workstation Tools
-
-![VS Code](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+### Workstation Tools  
+![VScode](https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)  
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-## 📚 Projects and Scientific Research
+## 📚 Projects and Scientific Research  
+- Sistema de Gerenciamento de Solicitações UEMG  
+- Sawam Materias Elétricos e Automação Industrial  
+- Hotel Casa Blanca  
+- Otimização de colheita de cana usando IA
 
-- Request Management System at UEMG  
-- Sawam Electrical Materials and Industrial Automation Website
-- Hotel Casa Blanca Website
-- Sugarcane Harvest Optimization using AI  
-
-## 📫 Contact
-
+## 📫 Contact  
 - Email: davi1234.juliano@gmail.com  
 - LinkedIn: [Davi Vizicato Juliano](https://www.linkedin.com/in/davi-vizicato-juliano-37303225b/)
 
-## 🖥️ Education in Progress
+## 🖥️ Ongoing Education  
+- Universidade do Estado de Minas Gerais  
+- Curso em Video (MySql[40 Horas])
 
-- Universidade do Estado de Minas Gerais (UEMG) 
-- Curso em Video (MySQL [40 Hours])
-
-## 🖥️ Completed Bootcamps
-
+## 🖥️ Completed Bootcamps  
 - 2 Hackaduino Centro Paula Souza
 
-⭐ Thank you for visiting my profile!
+⭐ Thanks for visiting my profile!
