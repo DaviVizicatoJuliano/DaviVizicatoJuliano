@@ -46,4 +46,7 @@
 - Universidade do Estado de Minas Gerais  
 - Curso em Video (MySql[40 Horas])
 
-## 🖥️
+## 🖥️ Bootcamps Commpleted
+- Hackaduino Centro Paula Souza
+
+### Thanks for visiting my profile⭐
