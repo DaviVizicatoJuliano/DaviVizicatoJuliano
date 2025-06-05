@@ -7,8 +7,9 @@
 🔬 Researcher in Artificial Intelligence applied to Sugarcane Harvesting and Transportation
 💻 Beginner programmer in C#.
 
+## 📚 Projects ans Cientific's Searchs
 <div style = "display: flex; flex-wrap: wrap; gap: 10px;">
-## 🚀 Technologies I'm learning
+
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
