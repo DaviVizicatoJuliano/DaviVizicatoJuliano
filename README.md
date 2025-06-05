@@ -1,6 +1,6 @@
 <img width="48%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVizicatoJuliano&show_icons=true&theme=dracula&layout=compact" />
 
-## 👋 Olá! Eu sou o Davi Vizicato Juliano
+## 👋 Hi, This is Davi Vizicato Juliano
 
 🎓 Information Systems Student at UEMG - Frutal  
 🔬 Researcher in Artificial Intelligence applied to Sugarcane Harvesting and Transportation  
