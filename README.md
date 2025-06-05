@@ -30,15 +30,14 @@
 - Email: davi1234.juliano@gmail.com
 - LinkedIn: [Davi Vizicato Juliano](https://www.linkedin.com/in/davi-vizicato-juliano-37303225b/))
 
-##📈 Formação em andamento:
+## 🖥️ Formação em Andamento:
 
 - Universidade do Estado de Minas Gerais
 - Curso em Video (MySql[40 Horas])
 
-Bootcamps Concluidos:
+## 🖥️ Bootcamps Concluídos:
 
 - 2 Hackaduino Centro Paula Souza
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviVizicatoJuliano&show_icons=true&theme=dark)
 
 ⭐ Obrigado por visitar meu perfil!
