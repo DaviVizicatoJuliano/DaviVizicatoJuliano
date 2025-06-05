@@ -1,4 +1,4 @@
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVizicatoJuliano&layout=compact&langs_count=10&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviVizicatoJuliano&layout=large&langs_count=10&theme=dark)
 
 
 # 👋 Olá! Eu sou o Davi Vizicato Juliano
