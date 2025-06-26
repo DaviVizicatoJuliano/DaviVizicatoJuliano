@@ -42,7 +42,9 @@
 
 ## 🖥️ Ongoing Education  
 - Universidade do Estado de Minas Gerais  
-- Curso em Video (MySql[40 Horas])
+- ADMINISTRANDO BANCO DE DADOS (Fundação Bradesco)
+- DESENVOLVIMENTO ORIENTADO A OBJETOS UTILIZANDO A LINGUAGEM PYTHON (Fundação Bradesco)
+- Introdução à Ciência de Dados (Cisco Networking Academy)
 
 ## 🖥️ Bootcamps Commpleted
 - Hackaduino Centro Paula Souza
